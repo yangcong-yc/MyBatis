@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="255ee5c5-52bd-43cd-a6c0-9c180e577240" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/entity/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/entity/AccountCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/mapper/PeopleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/repository/PeopleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/repository/PeopleRepository.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangcong/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RedisStudy/src/main/java/com/jedis/redisJedis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/config/AliyunConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/controller/AliyunController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/demos/config/AspectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/demos/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/demos/utils/ApiInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/demos/utils/WebExceptionAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/dto/Aliyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootTest/src/main/java/com/yangcong/springboot/service/AliyunService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirst/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../juc2023/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springMVC/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/data/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/data/DataStructureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/data/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code01_SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code02_BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code03_InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code04_BSExist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code05_BSNearLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code06_BSAwesome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code07_EvenTimesOddTimes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code08_GetMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/src/com/yangcong/基础入门班第一课代码/Code09_FindOneLessValueIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juc2023/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../juc2023/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juc2023/src/main/java/com/example/juc2023/Juc2023Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juc2023/src/main/java/com/example/juc2023/Juc2023Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juc2023/src/main/java/com/example/unit/JustTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juc2023/src/main/java/com/example/unit/JustTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../juc2023/src/test/java/com/example/juc2023/Juc2023ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../juc2023/src/test/java/com/example/juc2023/Juc2023ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-vue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project-vue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/orderService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/orderService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/orderService/src/main/java/com/yangcong/orderservice/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/orderService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/orderService/src/test/java/com/yangcong/orderservice/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/productService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/java/Dao/TbProductDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/java/Dao/TbProductOrderDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/java/Pojo/TbProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/java/Pojo/TbProductOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/java/com/yangcong/ProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/productService/src/main/java/com/yangcong/ProductApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/resources/Mapper/TbProductDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/productService/src/main/resources/Mapper/TbProductDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/resources/Mapper/TbProductOrderDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud/productService/src/main/resources/Mapper/TbProductOrderDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud/productService/src/test/java/com/example/productservice/ProductServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="userSettingsFile" value="D:\Development\Maven\maven-4.0.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SgLyHNh8JTbqf0XHCgiOq1qNgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangcong.test.Test" />
+      <module name="MyBatisStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yangcong.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangcong.test.Test2" />
+      <module name="MyBatisStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yangcong.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="255ee5c5-52bd-43cd-a6c0-9c180e577240" name="Changes" comment="" />
+      <created>1689563530636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689563530636</updated>
+      <workItem from="1689563533104" duration="12266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
